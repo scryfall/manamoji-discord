@@ -1,4 +1,4 @@
-### Manamoji for Discord
+# Manamoji for Discord
 
 Discord emojis for _Magic: the Gathering_ card symbols.
 
