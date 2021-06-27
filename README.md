@@ -8,7 +8,7 @@ These symbols are designed for use with [Scryfall’s Discord bot](https://scryf
 
 ### Installation
 
-1. [Download this project](https://github.com/scryfall/manamoji-discord/archive/master.zip) as a ZIP file.
+1. [Download this project](https://github.com/scryfall/manamoji-discord/archive/refs/heads/main.zip) as a ZIP file.
 2. In Discord, go to Sever Settings → Emoji.
 3. Drag any of the emoji files in the `emojis` folder or `extras` folder that you want into the Discord window. (We don’t recomend using the `extras`, as they are either funny or very rare symbols)
 4. Done!
