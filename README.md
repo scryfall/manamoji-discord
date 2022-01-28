@@ -15,4 +15,4 @@ These symbols are designed for use with [Scryfall’s Discord bot](https://scryf
 
 ### License
 
-We hereby release this project to [the public domain](LICENSE.md).
+We hereby release this project to [the public](LICENSE.md).
